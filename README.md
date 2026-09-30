@@ -11,3 +11,5 @@ To install a copy of the toolkit, open a terminal and run:
 
 **This code is currently in development and not all features will work**
 
+Coming soon: feature plots
+
